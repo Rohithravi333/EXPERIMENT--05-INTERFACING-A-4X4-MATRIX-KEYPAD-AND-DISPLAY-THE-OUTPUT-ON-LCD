@@ -178,13 +178,11 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 ![image](https://user-images.githubusercontent.com/36288975/233856904-99eb708a-c907-4595-9025-c9dbd89b8879.png)
 
 ## CIRCUIT DIAGRAM 
- 
+ ![cir dia](https://github.com/rasika1206/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/124434806/f48bc8cd-56dc-4d1e-86f4-915f3bad55db)
+
 
 ## STM 32 CUBE PROGRAM :
-## DEVELOPED BY : Rohith r
-## REGISTER NO : 212222230121
 ```
-#include "main.h"
 #include"stdbool.h"
 #include"lcd.h"
 bool col1,col2,col3,col4;
@@ -336,12 +334,14 @@ else if(!col2)
   }
 }
 ```
-## Output screen shots of proteus  :
- ![op proteus](https://github.com/AdhithiyanK/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/121029258/a37f967f-3125-47b1-9979-09183db93083)
 
+
+## Output screen shots of proteus  :
  
+ ![out](https://github.com/rasika1206/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/124434806/4f7c9d7b-3401-483e-9652-88f3bdcfb1c7)
+
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- ![circut 1](https://github.com/AdhithiyanK/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/121029258/c7cb4015-b3d2-449f-8ea1-1e2eeaf63533)
+ ![exp](https://github.com/rasika1206/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/124434806/2cd467e4-d311-4d30-a37e-41ddd8b2b2c4)
 
  
 ## Result :
